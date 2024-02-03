@@ -1,0 +1,5 @@
+{
+    "symbol": ["MVRV_RATIO"],
+    "pricescale": 10000000000000000,
+    "description": ["Market Value to Realized Value (MVRV) Ratio"]
+ }
